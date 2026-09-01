@@ -2264,7 +2264,7 @@
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.75 -0.62)
-			(end -1.53 -0.62)
+			(end -1.6 -0.62)
 			(stroke
 				(width 0.25)
 				(type solid)
@@ -2273,7 +2273,7 @@
 			(uuid "6df2f0e1-a647-4223-87ff-2ebf6e4bbf19")
 		)
 		(fp_line
-			(start -2.75 0.05)
+			(start -2.75 -0.02)
 			(end -2.75 -0.62)
 			(stroke
 				(width 0.25)
@@ -2284,7 +2284,7 @@
 		)
 		(fp_line
 			(start -2.75 1.88)
-			(end -2.75 1.21)
+			(end -2.75 1.28)
 			(stroke
 				(width 0.25)
 				(type solid)
@@ -2373,7 +2373,7 @@
 			(uuid "c191a79c-e71a-4b9b-9c88-47b12199e4d8")
 		)
 		(fp_line
-			(start 1.53 -0.62)
+			(start 1.6 -0.62)
 			(end 2.75 -0.62)
 			(stroke
 				(width 0.25)
@@ -2384,7 +2384,7 @@
 		)
 		(fp_line
 			(start 2.75 -0.62)
-			(end 2.75 0.05)
+			(end 2.75 -0.02)
 			(stroke
 				(width 0.25)
 				(type solid)
@@ -2393,7 +2393,7 @@
 			(uuid "0cb284fb-80f0-4f34-beab-80de19eb521f")
 		)
 		(fp_line
-			(start 2.75 1.21)
+			(start 2.75 1.28)
 			(end 2.75 1.88)
 			(stroke
 				(width 0.25)

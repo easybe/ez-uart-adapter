@@ -108,30 +108,6 @@
         [
           "silk_edge_clearance|162650000|112500000|1f5ca5d1-1217-46db-98f6-ce1d7927ef7a|c1176290-211c-4068-9d8e-f6d23935a499",
           ""
-        ],
-        [
-          "silk_over_copper|158650000|110410000|6c9fe95c-e0b3-4f4a-9b7a-483857830e7b|8ea1c9f1-33cc-4f31-b221-ce943d9a2fff",
-          ""
-        ],
-        [
-          "silk_over_copper|158650000|111110000|9caac1a2-2a46-4ba7-83c6-4610d7764646|8ea1c9f1-33cc-4f31-b221-ce943d9a2fff",
-          ""
-        ],
-        [
-          "silk_over_copper|160100000|109510000|6df2f0e1-a647-4223-87ff-2ebf6e4bbf19|bc955b00-6ae0-446b-949e-161074be4841",
-          ""
-        ],
-        [
-          "silk_over_copper|162700000|109510000|65a26e68-3f33-4ce9-8afd-bb8e06998dc3|36912407-a373-4bbe-bd1d-58484d659198",
-          ""
-        ],
-        [
-          "silk_over_copper|164150000|110410000|0cb284fb-80f0-4f34-beab-80de19eb521f|5de5fa6e-bb39-443c-a16c-5e3c1da6374d",
-          ""
-        ],
-        [
-          "silk_over_copper|164150000|111110000|912c436d-3d04-40c2-a29a-38c8c34b2505|5de5fa6e-bb39-443c-a16c-5e3c1da6374d",
-          ""
         ]
       ],
       "meta": {
