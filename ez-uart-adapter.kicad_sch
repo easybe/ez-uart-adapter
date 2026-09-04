@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "EZ USB-UART Adapter")
-		(rev "1.0")
+		(rev "1.1")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
