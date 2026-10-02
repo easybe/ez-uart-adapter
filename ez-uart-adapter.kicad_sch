@@ -4567,6 +4567,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 146.05) (xy 74.93 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7b52564-716b-4893-bdb1-d03e27dc6402")
+	)
+	(wire
+		(pts
 			(xy 97.79 71.12) (xy 97.79 73.66)
 		)
 		(stroke
@@ -4667,7 +4677,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 137.16) (xy 74.93 139.7)
+			(xy 74.93 137.16) (xy 74.93 138.43)
 		)
 		(stroke
 			(width 0)
@@ -7393,7 +7403,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 74.93 143.51 270)
+		(at 74.93 142.24 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7404,29 +7414,29 @@
 		(fields_autoplaced yes)
 		(uuid "8d4ae5e3-12c1-466f-947c-a9fdee236289")
 		(property "Reference" "D1"
-			(at 77.47 140.6524 90)
+			(at 78.74 142.5574 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "red"
-			(at 77.47 143.1924 90)
+			(at 78.74 145.0974 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
-			(at 74.93 143.51 0)
+			(at 74.93 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7437,7 +7447,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 143.51 0)
+			(at 74.93 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7448,7 +7458,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 74.93 143.51 0)
+			(at 74.93 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7459,7 +7469,7 @@
 			)
 		)
 		(property "LCSC Part" "C2286"
-			(at 74.93 143.51 0)
+			(at 74.93 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7470,7 +7480,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 74.93 143.51 0)
+			(at 74.93 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8215,7 +8225,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 213.36 100.33 270)
+		(at 213.36 100.33 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8226,25 +8236,25 @@
 		(fields_autoplaced yes)
 		(uuid "bba3645e-0b49-4c64-b946-c53d48d2626c")
 		(property "Reference" "D2"
-			(at 215.9 97.4724 90)
+			(at 217.17 100.6474 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "green"
-			(at 215.9 100.0124 90)
+			(at 217.17 103.1874 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
